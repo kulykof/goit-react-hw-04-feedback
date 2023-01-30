@@ -1,0 +1,10 @@
+.button {
+  margin-left: 20px;
+  background-color: #f7b095;
+  font-size: medium;
+  border-radius: 15%;
+}
+
+.button:first-child {
+  margin-left: 0px;
+}
